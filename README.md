@@ -1,6 +1,11 @@
 # LaunchXAbena Otros Cambios
 
-Modificación 1
-Repositorio prueba 14/02
+## Descripción
+Este repositorio solo es un ejemplo, estoy aprendiendo a hacer repositorios.
 
-Modificación en otros cambios
+## Tabla de contenido
+### 1. Instalación
+### 2. Uso
+### 3. Contribución
+### 4. Créditos
+### 5. Licencia
